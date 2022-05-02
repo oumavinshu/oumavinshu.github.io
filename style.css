@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 5.5rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+.btn {
+  width: 120px;
+  padding: 5px 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* supaya pas discroll tidak tertutup oleh fixed navbar */
+section {
+  scroll-margin-top: 4em;
+}
